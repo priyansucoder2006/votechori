@@ -29,6 +29,7 @@ It allows admins to register voters and candidates, set a voting period, and ena
 
 ---
 
-## 📁 Project Structure
+<img width="898" height="470" alt="image" src="https://github.com/user-attachments/assets/81056e39-b764-4f03-a64e-050642dfa193" />
+
 
 
